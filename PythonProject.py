@@ -12,7 +12,7 @@ Average=Total/8
 if Average >=80 and Average <= 100:     
     print("The student obtained GPA 5.00 = A+")
 elif Average >=70  and Average <= 79:
-    print("The student ontained GPA 4.00 = A") 
+    print("The student obtained GPA 4.00 = A") 
 elif Average >= 60  and Average <= 69:
     print("The Studenr obtained GPA 3.50 = A-") 
 elif  Average >= 50 and Average <= 59:
